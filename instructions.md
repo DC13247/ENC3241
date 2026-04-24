@@ -1,8 +1,3 @@
----
-layout: default
-title: Instructions
----
-
 # Instructions
 
-[Paste your instructions here]
+[Instructions.pdf](https://github.com/user-attachments/files/27033326/Instructions.pdf)
