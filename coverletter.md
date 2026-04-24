@@ -1,8 +1,3 @@
----
-layout: default
-title: Cover Letter
----
-
 # Cover Letter
 
-[Paste your cover letter here]
+[Cover Letter.pdf](https://github.com/user-attachments/files/27033292/Cover.Letter.pdf)
